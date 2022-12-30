@@ -1,0 +1,98 @@
+/* ======= Content Style ======= */
+.content {
+  width: 100%;
+  max-width: 73.6rem;
+}
+
+/* ======= Form Style ======= */
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+
+  height: 5.4rem;
+  gap: 0.8rem;
+
+  margin-top: -2.7rem;
+  margin-bottom: 6.4rem;
+}
+
+.input {
+  width: 63.8rem;
+  height: 5.4rem;
+  padding: 1.6rem;
+
+  border-radius: 8px;
+  border: 1px solid var(--gray-700);
+
+  background-color: var(--gray-500);
+
+  color: var(--gray-300);
+}
+
+.input:focus {
+  border: 1px solid var(--purple-dark);
+  outline: none;
+  color: var(--gray-100);
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 9rem;
+  height: 5.4rem;
+  gap: 0.8rem;
+
+  color: var(--gray-100);
+
+  border-radius: 8px;
+  border: none;
+
+  font-weight: 700;
+  font-size: 1.4rem;
+
+  background-color: var(--blue-dark);
+}
+
+.button:hover {
+  background-color: var(--blue);
+  cursor: pointer;
+}
+
+.button:disabled {
+  cursor: not-allowed;
+}
+
+/* ======= Tasks Counter Style ======= */
+.counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: center;
+
+  margin-bottom: 2.4rem;
+}
+
+.counter p {
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.counter p:first-child {
+  color: var(--blue);
+}
+
+.counter p:last-child {
+  color: var(--purple);
+}
+
+.counter span {
+  padding: 0.2rem 0.8rem;
+  margin-left: 0.8rem;
+  border-radius: 999px;
+  background-color: var(--gray-400);
+  color: var(--gray-100);
+}
