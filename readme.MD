@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://ignite_todo.netlify.app/">ToDo List :rocket: </a></h1>
+  <h1 align="center"><a href="https://ignite-todolist.netlify.app/">ToDo List :rocket: </a></h1>
 </p>
 
 
@@ -61,4 +61,4 @@ $ npm run dev
 ___
 
 
-[O resultado FINAL pode ser visto aqui](https://ignite_todo.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://ignite-todolist.netlify.app/)
