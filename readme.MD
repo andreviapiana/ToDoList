@@ -15,9 +15,9 @@ Todas as informações das tarefas são salvas dentro de um array de objetos uti
 ___
 
 ## 🎨 Layout
-A página funcionando em formato desktop é vista na imagem abaixo:
+A página em formato desktop é vista na imagem abaixo:
 
-![ScreenClick](https://user-images.githubusercontent.com/106932234/207999363-681023ce-99d2-4813-bbcd-b18ae96bd676.gif)
+![ToDo List](https://user-images.githubusercontent.com/106932234/210102412-333034ea-5209-4cd3-82ed-85acd416861e.png)
 
 ___
 
