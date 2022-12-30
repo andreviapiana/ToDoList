@@ -3,7 +3,7 @@
 </p>
 
 
-Este é o resultado de um estudo de React.js.
+Este é o resultado do primeiro desafio do curso Ignite, da Rocketseat, feito em React.js.
 
 ___
 
